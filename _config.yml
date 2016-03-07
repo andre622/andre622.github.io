@@ -6,8 +6,8 @@ bio: 'A Modern Maker'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-#url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io
+url: http://andre622.github.io
+#your url: http://USERNAME.github.io
 
 permalink: /:title/
 
