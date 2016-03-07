@@ -834,7 +834,8 @@ pre {
 }
 .header-home > .link > .selfie {
   width: 250px;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
+  margin-top: -75px;
   border-radius: 2%;
   -webkit-transition: all 0.2s;
           transition: all 0.2s;
