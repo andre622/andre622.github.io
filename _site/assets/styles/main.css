@@ -1132,7 +1132,7 @@ pre {
   width: 35px;
 }
 .social-links > .link:hover > .icon {
-  fill: #98ffcc;
+  fill: #4b0082;
 }
 .social-links > .link:hover:before {
   opacity: 1;
